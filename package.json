@@ -1,0 +1,12 @@
+{
+  "name": "ftf-mod-menu",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Client-side research and QoL tooling for Flee the Facility (authorized testing)",
+  "scripts": {
+    "serve": "node serve.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
